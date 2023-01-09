@@ -1,6 +1,6 @@
 **Rifat-Zaman263/Rifat-Zaman263** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 # 💫 About Me:
-###I'm Rifat Zaman<br> 🏙I’m currently a student of BUBT<br>👯 I’m trying to learn a few new types of programming languages <br>🌱 I’m currently learning C++<br>💬 Ask me about any problem in C & C++  <br>⚡ I'm trying to be better at programming day by day
+Hello Programmers<br>I'm Rifat Zaman<br> 🏙I’m currently a student of BUBT<br>👯 I’m trying to learn a few new types of programming languages <br>🌱 I’m currently learning C++<br>💬 Ask me about any problem in C & C++  <br>⚡ I'm trying to be better at programming day by day
 
 
 ## 🌐 Socials:
